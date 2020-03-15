@@ -1,3 +1,13 @@
 # Flash Chat ⚡️
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+![Loading Screen](images/WelcomeScreen.png)
+
+![Location Screen](images/LoginScreen.png)
+
+![Loading Screen](images/LoginScreenWithInput.png)
+
+![Location Screen](images/RegisterScreen.png)
+
+![Loading Screen](ChatScreen.png)
+
+
