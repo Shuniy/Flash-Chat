@@ -4,7 +4,7 @@
 
 ![Login Screen](images/LoginScreen.png)
 
-![Login Screen](images/LoginScreenWithInput.png)
+![Login Screen with Input](images/LoginScreenWithInput.png)
 
 ![Register Screen](images/RegisterScreen.png)
 
