@@ -1,13 +1,13 @@
 # Flash Chat ⚡️
 
-![Loading Screen](images/WelcomeScreen.png)
+![Start Screen](images/WelcomeScreen.png)
 
-![Location Screen](images/LoginScreen.png)
+![Login Screen](images/LoginScreen.png)
 
-![Loading Screen](images/LoginScreenWithInput.png)
+![Login Screen](images/LoginScreenWithInput.png)
 
-![Location Screen](images/RegisterScreen.png)
+![Register Screen](images/RegisterScreen.png)
 
-![Loading Screen](ChatScreen.png)
+![Chat Screen](images/ChatScreen.png)
 
 
