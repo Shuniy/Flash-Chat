@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399140173062",
+    "firebase_url": "https://flash-chat-5a449.firebaseio.com",
+    "project_id": "flash-chat-5a449",
+    "storage_bucket": "flash-chat-5a449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399140173062:android:7a861b74ef229e96ce5a87",
+        "android_client_info": {
+          "package_name": "co.SCORP.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399140173062-bekvrqo38grilni4aa9umfdlo1eiano2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWPNPz1Pi57sYcYxYhWAEX3wf0OTgum0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399140173062-bekvrqo38grilni4aa9umfdlo1eiano2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
