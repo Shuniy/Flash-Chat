@@ -1,6 +1,8 @@
 # Flash Chat ⚡️
 
-![Start Screen](images/WelcomeScreen.png){: height="36px" width="36px"}
+<img src="https://github.com/ZippySphinx/Flash-Chat/images/StartScreen.png" width="48">
+
+![Start Screen](images/WelcomeScreen.png)
 
 ![Login Screen](images/LoginScreen.png)
 
