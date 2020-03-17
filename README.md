@@ -1,6 +1,6 @@
 # Flash Chat ⚡️
 
-<img src="https://github.com/ZippySphinx/Flash-Chat/tree/master/images/WelcomeScreen.png" width="48">
+<a href="url"><img src="https://github.com/ZippySphinx/Flash-Chat/tree/master/images/WelcomeScreen.png" align="left" height="48" width="48" ></a>
 
 ![Start Screen](images/WelcomeScreen.png)
 
