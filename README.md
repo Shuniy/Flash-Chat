@@ -1,6 +1,6 @@
 # Flash Chat ⚡️
 
-![Start Screen](images/WelcomeScreen.png)
+![Start Screen](images/WelcomeScreen.png=250x250)
 
 ![Login Screen](images/LoginScreen.png)
 
