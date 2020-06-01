@@ -15,7 +15,7 @@
 - [Modal Progress HUD](https://pub.dev/packages/modal_progress_hud)
 
 ## Screenshots
-![Start Screen](images/WelcomeScreen.png)   ![Login Screen](images/LoginScreen.png)
+![Start Screen](images/WelcomeScreen.png)                         ![Login Screen](images/LoginScreen.png)
 
 ![Login Screen with Input](images/LoginScreenWithInput.png)   ![Register Screen](images/RegisterScreen.png)
 
