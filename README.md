@@ -5,7 +5,7 @@
 > **A Chat app made with Flutter app and Firebase.**
 
 ### Usage
-***For learning purposes.***
+***For learning and reference purposes.***
 
 ### Packages Used
 - [Animated Text Kit](https://pub.dev/packages/animated_text_kit)
